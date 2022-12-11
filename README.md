@@ -1,4 +1,4 @@
-#Privacy Policy
+# Privacy Policy
 tapfood POS System takes your privacy seriously.
 
 # Advertisement and Other Third Parties
